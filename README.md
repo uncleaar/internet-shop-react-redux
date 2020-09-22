@@ -1,5 +1,5 @@
 **Internet-shop**<br/>
-<https://internet-shop-react-redux.vercel.app/basket>
+<https://internet-shop-react-redux.vercel.app>
 
 In the project directory, you can run:
 
